@@ -9,7 +9,7 @@ This project focuses on visualizing and analyzing Bitcoin (BTC) data using popul
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/btc-data-visualization.git
+git clone https://github.com/ragnarocker13/btc-data-viz.git
 ```
 
 ## Dependencies
