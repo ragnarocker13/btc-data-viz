@@ -14,11 +14,11 @@ git clone https://github.com/yourusername/btc-data-visualization.git
 
 ## Dependencies
 
--- Seaborn
--- Plotly
--- Plotly Express
--- Pandas
--- yfinance (for fetching historical BTC data)
+- Seaborn
+- Plotly
+- Plotly Express
+- Pandas
+- yfinance (for fetching historical BTC data)
 
 Install the required dependencies using the provided requirements.txt file.
 
